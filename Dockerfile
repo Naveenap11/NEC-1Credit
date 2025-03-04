@@ -16,5 +16,5 @@ EXPOSE 5000
 ENV FLASK_APP=personal-api.py
 
 # Run the application
-CMD ["python", "personal-api.py"] 
+CMD ["python", "personal-api.py"]
 
